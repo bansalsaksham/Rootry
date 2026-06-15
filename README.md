@@ -4,7 +4,7 @@ An evolving hardware IoT project focused on providing low-cost, high-efficiency,
 
 **Key Achievements:**
 * 🏆 **Runner-up (2nd Worldwide):** UPenn EcoVenture Global Climate Venture Competition (2024)
-<img width="1100" height="850" alt="Saksham Certificate_page-0001" src="https://github.com/user-attachments/assets/432f06de-876c-4dd0-b586-a977b3d437c4" />
+<img width="734" height="567" alt="Saksham Certificate_page-0001" src="https://github.com/user-attachments/assets/432f06de-876c-4dd0-b586-a977b3d437c4" />
 
 * 🏆 **Winner:** CBSE National Science Exhibition (2019) & Regional Science Exhibition (2018-19)
 * 🌟 **Government Recognition:** Recommended as *Jal Doot* by the Ministry of Jal Shakti
